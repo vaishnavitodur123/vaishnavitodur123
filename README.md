@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Ecommerce-Website**
 
-- 🌱 I’m currently learning **Java Frameworks and React**
+- 🌱 I’m learning **Java Frameworks and React**
 
 - 💬 Ask me about **Java**
 
