@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Ecommerce-Website**
 
-- 🌱 I’m learning **Java Frameworks and React**
+- 🌱 I’m learning **PHP and PHP Frameworks**
 
 - 📫 How to reach me **vaishnavintodur@gmail.com**
 
