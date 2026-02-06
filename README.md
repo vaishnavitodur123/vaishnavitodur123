@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi N Todur</h1>
 <h3 align="center">Full-Stack Tech_Monke Dev </h3>
 
-- 🔭 I’m currently working on **Ecommerce-Website**
+- 🔭 I’m currently working on **CRUD**
 
-- 🌱 I’m learning **PHP and PHP Frameworks**
+- 🌱 I’m learning **PHP and Framework Laravel**
 
 - 📫 How to reach me **vaishnavintodur@gmail.com**
 
