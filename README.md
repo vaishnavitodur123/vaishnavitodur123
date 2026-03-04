@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi N Todur</h1>
 <h3 align="center">Full-Stack Tech_Monke Dev </h3>
 
-- 🔭 I’m currently working on **frontend and backend integeration**
+- 🔭 I’m currently working on **Ecommerce Using PHP laravel for backend and frontend React**
 
 - 🌱 I’m learning **PHP and Framework Laravel**
 
